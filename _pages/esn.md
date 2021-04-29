@@ -46,7 +46,7 @@ The Erasmus Student Network actively contributes to the European Union policies 
 
 Between 2011 and 2017 I held several positions in the local, national and international level of ESN:
 
-- Member of the ESNsurvey Team 2016 and 2017
+- Member of the ESNsurvey Team (2016-2017)
 - National Representative of ESN Spain (2014-2016)
 - Education Officer of ESN Spain (2014-2015)
 - Member of the International Committee for Education (2014-2016)
