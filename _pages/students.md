@@ -8,7 +8,7 @@ title: "Students"
 Theses that I have (co-)supervised:
 
 - Manon Demey - ***Dynamiek en modelisatie van chemische reacties: de Brusselator en het model van Schnackenberg*** (co-supervised with [S. Hohloch](http://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/)), BSc Thesis, University of Antwerp, 2019.
-- Lauranne Claes - ***Dynamische systemen in één complexe variabele\*** (co-supervised with [S. Hohloch](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/)), BSc Thesis, University of Antwerp, 2017.
+- Lauranne Claes - ***Dynamische systemen in één complexe variabele*** (co-supervised with [S. Hohloch](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/)), BSc Thesis, University of Antwerp, 2017.
 
 
 
