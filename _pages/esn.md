@@ -5,7 +5,7 @@ title: "Erasmus Student Network (ESN)"
 
 
 
-For many years I have worked in my free time as volunteer for the [Erasmus Student Network](http://esn.org//). ESN was founded on 1989 and it is the **biggest student association in Europe**, present in more than 480 Higher Education Institutions from 37 countries. ESN aims at supportung and developing **student exchange** and **international mobility**. 
+For many years I have volunteered in my free time for the [Erasmus Student Network](http://esn.org//). ESN was founded on 1989 and it is the **biggest student association in Europe**, present in more than 480 Higher Education Institutions from 37 countries. ESN aims at supportung and developing **student exchange** and **international mobility**. 
 
 
 
