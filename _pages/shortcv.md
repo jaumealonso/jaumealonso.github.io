@@ -53,9 +53,9 @@ Other languages:
 
 IT Skills:
 
-* Intermediate command of mathematical software (Mathematica)
-* Advanced command of scientific outreach production (LaTeX, Beamer)
-* Intermediate command of Linux systems (Arch Linux, Debian, Ubuntu)
+* Intermediate command of mathematical software: Mathematica
+* Advanced command of scientific outreach production: LaTeX, Beamer
+* Intermediate command of Linux systems: Arch Linux, Debian, Ubuntu
 * Basic command of programming: Python, C, CUDA and R
 * Basic command of Machine Learning software: TensorFlow, Keras, Pandas
 
