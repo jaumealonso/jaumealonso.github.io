@@ -185,6 +185,9 @@ collections:
   preprints:
     output: true
     permalink: /:collection/:path/
+  proceedings:
+    output: true
+    permalink: /:collection/:path/
   theses:
     output: true
     permalink: /:collection/:path/
@@ -243,7 +246,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+    # _proceedings
+  - scope:
+      path: ""
+      type: proceedings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _theses
   - scope:
       path: ""
       type: theses

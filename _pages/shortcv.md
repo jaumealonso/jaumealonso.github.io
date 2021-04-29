@@ -10,13 +10,13 @@ title: "Short CV"
 Academic experience
 ------
 
-* Oct 2020 - *Present*: **Postdoctoral researcher & Teaching Assistant (*Wissenschaftlicher Mitarbeiter*)**
+* **Postdoctoral researcher & Teaching Assistant** (Oct 2020 - *Present*)
   * Technische Universität Berlin, Germany.
 
-* Oct 2019 - Sept 2020: **Postdoctoral researcher & Teaching Assistant**
+* **Postdoctoral researcher & Teaching Assistant** (Oct 2019 - Sept 2020)
   * University of Antwerp, Belgium.
 
-* Oct 2015 - Sept 2019: **Doctoral researcher & Teaching Assistant**
+* **Doctoral researcher & Teaching Assistant** (Oct 2015 - Sept 2019)
   * University of Antwerp, Belgium.
 
 
@@ -48,6 +48,8 @@ Other languages:
 |  *Dutch*  |    C2     |   C2    |    C2    |   C1    |
 | *German*  |    C1     |   C1    |    C1    |   C1    |
 | *Swedish* |    B2     |   B2    |    B1    |   B1    |
+
+
 
 IT Skills:
 
