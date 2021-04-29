@@ -1,55 +1,39 @@
 ---
-permalink: /esn/
-title: "Erasmus Student Network (ESN)"
+permalink: /research/
+title: "Research"
 ---
 
 
 
-For many years I have worked in my free time as volunteer for the [Erasmus Student Network](http://esn.org//). ESN was founded on 1989 and it is the **biggest student association in Europe**, present in more than 480 Higher Education Institutions from 37 countries. ESNaims at supportung and developing **student exchange** and **international mobility**. 
+### Research interests:
+
+* Dynamical systems
+* Integrable systems
+* Classification of integrable systems
+* Geometric aspects of dynamics
+* Kahan discretisation and birational dynamics
+* Symplectic geometry and invariants
 
 
 
-### About the Erasmus Student Network
+## Research summary:
 
-ESN aims at working in the interest of students who are spending a part of their professional education at a higher education institution in a country other than the one in which their home institution is situated. The organisation works to **improve the conditions for present and future exchange students** and to promote the exchange experience and concerns itself directly or indirectly with every aspect of this subject as broadly as possible. It does so without being associated with any political or confessional group.Through its work for the mobile students, ESN also aims at working for the non-mobile students by **improving their chances to experience international student exchange at their home institution**. 
+### Dynamical systems
 
+**Dynamical systems** are mathematical models that describe the evolution of systems with time, such as the motion of a pendulum, the changes of a fish population, the concentration of a certain chemical or the electric variations inside a neuron. At any given moment, the state of a dynamical system is identified with a point in a state space. By studying the geometry of this space, we can determine qualitative aspects of the evolution of the system. Some typical questions that we try to answer are:
 
+- Are there any **stationary states**? 
+- Can we find some **periodic behaviour**? 
+- What does the system look like after a great amount of time has passed? 
 
-### ESNsurvey
+### Completely integrable systems
 
-One of the projects I have worked on is the ESNsurvey. It is the biggest regular European research project **planned and carried out entirely by students for students**. It is conducted annually since 2005 and surveys students at higher education institutions. ESN shares the results with the main stakeholders in higher education and mobility programmes. 
+In certain occasions, some physical quantities such as the energy are preserved. This simplifies the study of these systems, since we know that solutions must stay within the same energy level. This idea can be generalised to systems with 2*n*-dimensional state spaces and *n* conserved quantities, known as **completely integrable systems**. Harmonic oscillators, the spherical pendulum or the Euler top are all examples of this type. 
 
-The **aims of the ESNsurvey** are:
+In line with M. Kac’s famous paper entitled “*Can we hear the shape of a drum?*”, one can ask how much of the properties of an integrable system are retained in its energy values. A good example is that of so-called **toric systems**, for which the conserved quantities define an effective *n*-dimensional torus action. T. Delzant showed that these systems can be completely classified in terms of certain polytopes, which correspond to the set of possible energy values. 
 
-- Explore current issues connected to academic and non-academic mobility and education.
-- Get a better insight into student issues in order to represent their real needs.
+### Semitoric systems
 
-I co-authored two editions: 
+Inspired by this situation, [Á. Pelayo](http://www.math.ucsd.edu/~alpelayo/) and [S. Vũ Ngọc](http://blogperso.univ-rennes1.fr/san.vu-ngoc/) found in the recent years a global classification for a certain class of integrable systems with a 4-dimensional state space, called **semitoric systems**. These systems have two compatible conserved quantities, but only one of them comes from a rotation symmetry. The classification is based on five invariants and it is relevant because such systems appear often in physics, among others as classical counterparts of quantum systems. 
 
-* [ESNsurvey 2018](https://esn.org/esnsurvey/2018) on the Challenges and Enablers of International Mobility for Students with Disabilities
-* [ESNsurvey 2016](https://esn.org/esnsurvey/2016) on the International-Friendliness of Universities
-
-
-
-### International Education and Advocacy
-
-The Erasmus Student Network actively contributes to the European Union policies by publishing **policy papers** in the fields of **education and training** as well as **youth and voluntering.** The advocacy done by ESN regarding the **general improvement of exchange programmes in Europe** is based on the opinions of more than 180.000 exchange students that we assist every year and whose opinion os collected in **surveys** and **researches**. Here there is a sample of the [position papers](http://esn.org/position-papers) released by ESN:
-
-- [Erasmus+ 1st Year Review](../../../../../../esn.org/sites/default/files/news/Erasmus%2b - 1st Year Review.pdf) by the European University Foundation and the Erasmus Student Network. 
-- [Reaction paper](../../../../../../esn.org/sites/default/files/pages/Reaction of the Erasmus Student Network AISBL to the EU2020 Consultation.pdf) to the public consultation on the Europe 2020 Strategy by the European Commission.
-- [Position paper](../../../../../../esn.org/sites/default/files/pages/Rethinking Education - Position Paper.pdf) on *Rethinking Education: Investing in skills for better socio-economic outcomes.*
-- [Position paper](../../../../../../esn.org/sites/default/files/pages/ESN Position on Visas_0.pdf) on the *Future rules on the entry and residence of non-EU national researchers, students, school pupils, unremunerated trainees and volunteers in the EU*.
-
-
-
-### Experience in the Erasmus Student Network
-
-Between 2011 and 2017 I held several positions in the local, national and international level of ESN:
-
-- Member of the ESNsurvey Team 2016 and 2017
-- National Representative of ESN Spain (2014-2016)
-- Education Officer of ESN Spain (2014-2015)
-- Member of the International Committee for Education (2014-2016)
-- Member of Honour of ESN UAB Barcelona
-- Vicepresident of ESN UAB Barcelona (2013-2014)
-- Chair of several events / conferences
+Part of my current research focuses on the **computation of these invariants** for some families of systems that depend on several parameters with the help of powerful mathematical software such as [Mathematica](https://www.wolfram.com/mathematica/). We have also shown how the invariants convey this dependence on the parameters and also how they display the symmetries of the systems. Together with my collaborators in Australia, Belgium and the US, we aim at a better understanding of both semitoric systems and the nature of their classification invariants. 

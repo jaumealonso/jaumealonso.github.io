@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* No unpublished preprints at this moment.
+*No unpublished preprints at this moment.*
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
@@ -20,7 +20,7 @@ author_profile: true
 # Publications
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+   {% include archive-single.html %}
 {% endfor %}
 
 
@@ -31,7 +31,7 @@ author_profile: true
 
 # Conference proceedings
 
-(Non-peer-reviewed)
+*(Non-peer-reviewed)*
 
 {% for post in site.proceedings reversed %}
   {% include archive-single.html %}

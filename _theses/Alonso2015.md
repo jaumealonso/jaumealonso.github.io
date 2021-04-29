@@ -1,5 +1,5 @@
 ---
-title: "MSc Thesis: Equivariant cohomology and localisation"
+title: "M.Sc. thesis: Equivariant cohomology and localisation"
 collection: publications
 permalink: /publication/Alonso2015
 date: 2015-02-27

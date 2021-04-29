@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis: On the symplectic invariants of semitoric systems"
+title: "Ph.D. thesis: On the symplectic invariants of semitoric systems"
 collection: publications
 permalink: /publication/Alonso2019b
 date: 2021-04-19

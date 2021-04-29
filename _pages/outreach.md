@@ -5,27 +5,27 @@ title: "Outreach"
 
 
 
+### Conference presentations:
+
+| Date     | Event                                                        | Place                                |
+| -------- | ------------------------------------------------------------ | ------------------------------------ |
+| May 2019 | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, China |
+| Feb 2018 | *[Recent advances in Hamiltonian dynamics and symplectic topology](https://events.math.unipd.it/hamschool2018/)* | University of Padova, Padova, Italy  |
+
+
+
 ### Seminar presentations:
 
-| Date        | Event                                                        | Place                                |
-| ----------- | ------------------------------------------------------------ | ------------------------------------ |
-| 8 May 2019  | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, China |
-| 15 Feb 2018 | *[Recent advances in Hamiltonian dynamics and symplectic topology](https://events.math.unipd.it/hamschool2018/)* | University of Padova, Padova, Italy  |
-
-
-
-### Seminar presentations:
-
-| Date        | Event                                                        | Place                                   |
-| ----------- | ------------------------------------------------------------ | --------------------------------------- |
-| May 2020    | [Poisson Seminar](https://wis.kuleuven.be/meetkunde) (online) | KU Leuven University, Leuven, Belgium   |
-| May 2020    | [Discretization in Geometry and Dynamics Seminar](https://www.discretization.de/events/6/) (online) | TU Berlin, Berlin, Germany              |
-| Jan 2019    | [Faculty of Science - Research Day 3](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/) | University of Antwerp, Antwerp, Belgium |
-| 7 May 2018  | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
-| 20 Nov 2017 | [*Séminaire Géométrie et applications*](http://irma.math.unistra.fr/php/equip_sem.php?equipe=GEO&theme=G%E9om%E9trie%20et%20applications&periode=passe) | IRMA, Strasbourg, France                |
-| 16 May 2017 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
-| 5 Apr 2017  | [*PhD Seminars Mathematics*](http://cage.ugent.be/phdseminars/) | University of Ghent, Ghent, Belgium     |
-| 8 Dec 2016  | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
+| Date     | Event                                                        | Place                                   |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| May 2020 | [Poisson Seminar](https://wis.kuleuven.be/meetkunde) (online) | KU Leuven University, Leuven, Belgium   |
+| May 2020 | [Discretization in Geometry and Dynamics Seminar](https://www.discretization.de/events/6/) (online) | TU Berlin, Berlin, Germany              |
+| Jan 2019 | [Faculty of Science - Research Day 3](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/) | University of Antwerp, Antwerp, Belgium |
+| May 2018 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
+| Nov 2017 | [*Séminaire Géométrie et applications*](http://irma.math.unistra.fr/php/equip_sem.php?equipe=GEO&theme=G%E9om%E9trie%20et%20applications&periode=passe) | IRMA, Strasbourg, France                |
+| May 2017 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
+| Apr 2017 | [*PhD Seminars Mathematics*](http://cage.ugent.be/phdseminars/) | University of Ghent, Ghent, Belgium     |
+| Dec 2016 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
 
 
 
