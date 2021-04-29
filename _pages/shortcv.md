@@ -24,15 +24,15 @@ Academic experience
 Education
 ------
 
-* Ph.D. in Mathematics, University of Antwerp (Belgium), 2019.
+* **Ph.D. in Mathematics**, University of Antwerp (Belgium), 2019.
   * Ph.D. thesis: *On the symplectic invariants of semitoric systems*
   * Supervisor: Prof. Dr. Sonja Hohloch
-* M.Sc. in Physics, Uppsala University (Sweden), 2015.
+* **M.Sc. in Physics**, Uppsala University (Sweden), 2015.
   * M.Sc. thesis: *Equivariant Cohomology and Localisation*
-* Double B.Sc. in Mathematics & Physics, Autonomous University of Barcelona (Catalonia), 2012.
+* **Double B.Sc. in Mathematics & Physics**, Autonomous University of Barcelona (Catalonia), 2012.
   * Best Year Graduate 2012 (Honours, A+)
   * B.Sc. thesis: *Closing the loop. Periodic orbits of some non-autonomous dynamical systems with applications to fluid dynamics* (10.0, Honours, A+)
-* Erasmus - Exchange Year Abroad, Georg-August-Universität Göttingen (Germany), 2010-11.
+* **Erasmus - Exchange Year Abroad**, Georg-August-Universität Göttingen (Germany), 2010-11.
 
 
 
@@ -42,12 +42,12 @@ Mother tongues: **Catalan, Spanish**
 
 Other languages:
 
-| Language  | Listening | Reading | Speaking | Writing |
-| :-------: | :-------: | :-----: | :------: | :-----: |
-| *English* |    C2     |   C2    |    C2    |   C2    |
-|  *Dutch*  |    C2     |   C2    |    C2    |   C1    |
-| *German*  |    C1     |   C1    |    C1    |   C1    |
-| *Swedish* |    B2     |   B2    |    B1    |   B1    |
+|   Language    | Listening | Reading | Speaking | Writing |
+| :-----------: | :-------: | :-----: | :------: | :-----: |
+| ***English*** |    C2     |   C2    |    C2    |   C2    |
+|  ***Dutch***  |    C2     |   C2    |    C2    |   C1    |
+| ***German***  |    C1     |   C1    |    C1    |   C1    |
+| ***Swedish*** |    B2     |   B2    |    B1    |   B1    |
 
 
 
