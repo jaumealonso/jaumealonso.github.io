@@ -1,16 +1,51 @@
 ---
 layout: archive
-title: "Publications"
+title: "Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+* No unpublished preprints at this moment.
+
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br/><br/>
+
+
+
+# Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+<br/><br/>
+
+
+
+# Conference proceedings
+
+(Non-peer-reviewed)
+
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+<br/><br/>
+
+
+
+# Theses
+
+{% for post in site.theses reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+

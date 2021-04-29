@@ -1,7 +1,22 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Publications"
-    url: /publications/  
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "Students"
+    url: /students/
+
+  - title: "Event organisation"
+    url: /events/
+
+  - title: "Short CV"
+    url: /shortcv/

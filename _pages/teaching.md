@@ -1,11 +1,13 @@
 ---
 permalink: /teaching/
-title: "" # "Teaching"
+title: "Teaching"
 ---
 
-## Technische Universität Berlin
+Since 2015 I have been responsible for the exercise sessions of several courses for BSc and MSc students of Mathematics and Physics. 
 
-Under the supervision of [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/).
+
+
+## Technische Universität Berlin
 
 #### Summer Semester 2021:
 
@@ -23,9 +25,11 @@ Under the supervision of [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~s
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=22229)
   * Language of instruction: German
 
+
+
 ## University of Antwerp
 
-Under the supervision of [Prof. Dr. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/).
+Lectures by [Prof. Dr. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/).
 
 #### Summer Semester 2020:
 
