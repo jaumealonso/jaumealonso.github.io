@@ -1,32 +1,31 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "" # "Teaching"
 ---
-
-Introductory text about teaching
 
 ## Technische Universität Berlin
 
-### Summer Semester 2021:
+Under the supervision of [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/).
 
-* #### Mathematik für PhysikerInnen II (1st year BSc):
+#### Summer Semester 2021:
+
+* **Mathematik für PhysikerInnen II (1st year BSc):**
   * Coordination of the team of tutors, creation of content and teaching of the exercise sessions
-  * Lectures: [Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * Lectures: [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=24244)
   * Language of instruction: German
 
-## Winter Semester 2020-21:
+#### Winter Semester 2020-21:
 
-* ##### Mathematik für PhysikerInnen I (1st year BSc):
-
+* **Mathematik für PhysikerInnen I (1st year BSc):**
   * Coordination of the team of tutors, creation of content and teaching of the exercise sessions, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
-  * Lectures: [Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * Lectures: [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=22229)
   * Language of instruction: German
 
+## University of Antwerp
 
-
-# University of Antwerp
+Under the supervision of [Prof. Dr. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/).
 
 #### Summer Semester 2020:
 

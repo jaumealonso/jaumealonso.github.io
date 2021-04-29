@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Jaume Alonso"
   avatar           : "avatar.jpg"
-  bio              : "Postdoctoral Researcher in Mathematics"
-  location         : 
-  employer         : "Technische Universität Berlin"
+  bio              : "Postdoctoral Researcher in Mathematics <br> <br> Technische Universität Berlin"
+  location         : "Berin, Germany"
+  employer         : # "Technische Universität Berlin"
   pubmed           : 
   googlescholar    : "https://scholar.google.be/citations?user=tVnlEhMAAAAJ"
-  email            :
+  email            : "alonso@math.tu-berlin.de"
   researchgate     :  "https://www.researchgate.net/profile/Jaume_Alonso"
   uri              :
   bitbucket        :
