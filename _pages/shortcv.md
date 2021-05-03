@@ -84,3 +84,11 @@ Language certificates:
 Other certificates:
 
 * *Bierkenner* – Beer connoisseur (CVO Provincie Antwerpen) – 2019
+
+<br/>
+
+---
+
+### Pronunciation: 
+
+In case you might be interested, my [name](https://en.wiktionary.org/wiki/Jaume) is pronounced /ˈʒaw.mə/ and sounds like [this](https://www.howtopronounce.com/catalan/jaume).
