@@ -302,6 +302,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag   # I am adding this to make the icon of the page appear in the browser
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
