@@ -1,11 +1,17 @@
 ---
 layout: archive
-title: "Preprints"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
+
+# Preprints
+
+---
+
+
 
 *No unpublished preprints at this moment.*
 
@@ -19,6 +25,10 @@ author_profile: true
 
 # Publications
 
+---
+
+
+
 {% for post in site.publications reversed %}
    {% include archive-single.html %}
 {% endfor %}
@@ -30,6 +40,10 @@ author_profile: true
 
 
 # Conference proceedings
+
+---
+
+
 
 *(Non-peer-reviewed)*
 
@@ -44,6 +58,10 @@ author_profile: true
 
 
 # Theses
+
+---
+
+
 
 {% for post in site.theses reversed %}
   {% include archive-single.html %}
