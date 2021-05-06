@@ -13,7 +13,7 @@ Since 2015 I have been responsible for the exercise sessions of several courses 
 
 * **Mathematik für PhysikerInnen II (1st year BSc):**
   * Coordination of the team of tutors, creation of content and teaching of the exercise sessions
-  * Lectures: [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=24244)
   * Language of instruction: German
 
@@ -21,7 +21,7 @@ Since 2015 I have been responsible for the exercise sessions of several courses 
 
 * **Mathematik für PhysikerInnen I (1st year BSc):**
   * Coordination of the team of tutors, creation of content and teaching of the exercise sessions, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
-  * Lectures: [Prof. Dr. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=22229)
   * Language of instruction: German
 
@@ -29,7 +29,7 @@ Since 2015 I have been responsible for the exercise sessions of several courses 
 
 ## University of Antwerp
 
-Lectures by [Prof. Dr. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/).
+Lectures by [Prof. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/).
 
 ### Summer Semester 2020:
 
