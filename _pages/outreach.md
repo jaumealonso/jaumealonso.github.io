@@ -5,16 +5,24 @@ title: "Outreach"
 
 
 
-### Conference presentations:
+### Upcoming events:
 
-| Date     | Event                                                        | Place                                |
-| -------- | ------------------------------------------------------------ | ------------------------------------ |
-| May 2019 | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, China |
-| Feb 2018 | *[Recent advances in Hamiltonian dynamics and symplectic topology](https://events.math.unipd.it/hamschool2018/)* | University of Padova, Padova, Italy  |
-
+| Date     | Event                                                        | Place                                   |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online) | University of Antwerp, Antwerp, Belgium |
 
 
-### Seminar presentations:
+
+### Past conference presentations:
+
+| Date     | Event                                                        | Place                                          |
+| -------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| May 2019 | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, Shanghai, China |
+| Feb 2018 | *[Recent advances in Hamiltonian dynamics and symplectic topology](https://events.math.unipd.it/hamschool2018/)* | University of Padova, Padova, Italy            |
+
+
+
+### Past seminar presentations:
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
@@ -29,7 +37,7 @@ title: "Outreach"
 
 
 
-### Posters:
+### Past posters:
 
 | Date        | Event                                                        | Place                                   |
 | ----------- | ------------------------------------------------------------ | --------------------------------------- |
