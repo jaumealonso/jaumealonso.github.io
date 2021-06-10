@@ -7,9 +7,8 @@ title: "Outreach"
 
 ### Upcoming events:
 
-| Date     | Event                                                        | Place                                   |
-| -------- | ------------------------------------------------------------ | --------------------------------------- |
-| Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [[video](https://youtu.be/_f1hFOqhACc)]) | University of Antwerp, Antwerp, Belgium |
+| Date | Event | Place |
+| ---- | ----- | ----- |
 
 
 
@@ -22,10 +21,11 @@ title: "Outreach"
 
 
 
-### Past seminar presentations:
+### Past seminar / workshop presentations:
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
+| Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [video](https://youtu.be/_f1hFOqhACc)) | University of Antwerp, Antwerp, Belgium |
 | May 2020 | [*Poisson Seminar*](https://wis.kuleuven.be/meetkunde) (online) | KU Leuven University, Leuven, Belgium   |
 | May 2020 | [*Discretization in Geometry and Dynamics Seminar*](https://www.discretization.de/events/6/) (online) | TU Berlin, Berlin, Germany              |
 | Jan 2019 | [*Faculty of Science - Research Day 3*](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/) | University of Antwerp, Antwerp, Belgium |
