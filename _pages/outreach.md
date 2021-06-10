@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
-| Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online) | University of Antwerp, Antwerp, Belgium |
+| Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [[video](https://youtu.be/_f1hFOqhACc)]) | University of Antwerp, Antwerp, Belgium |
 
 
 
