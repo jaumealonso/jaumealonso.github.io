@@ -7,9 +7,9 @@ title: "Outreach"
 
 ### Upcoming events:
 
-| Date | Event | Place |
-| ---- | ----- | ----- |
-|      |       |       |
+| Date     | Event                                                        | Place                                       |
+| -------- | ------------------------------------------------------------ | ------------------------------------------- |
+| Sep 2021 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/74/) | Tagungszentraum Landshut, Landshut, Germany |
 
 
 
