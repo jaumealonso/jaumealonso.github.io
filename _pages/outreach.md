@@ -7,9 +7,9 @@ title: "Outreach"
 
 ### Upcoming events:
 
-| Date     | Event                                                        | Place                                       |
-| -------- | ------------------------------------------------------------ | ------------------------------------------- |
-| Sep 2021 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/74/) | Tagungszentraum Landshut, Landshut, Germany |
+| Date     | Event                                                        | Place                                   |
+| -------- | ------------------------------------------------------------ | --------------------------------------- |
+| Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
 
 
 
@@ -17,6 +17,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                          |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| Sep 2021 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/74/) | Tagungszentrum Landshut, Landshut, Germany     |
 | May 2019 | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, Shanghai, China |
 | Feb 2018 | *[Recent advances in Hamiltonian dynamics and symplectic topology](https://events.math.unipd.it/hamschool2018/)* | University of Padova, Padova, Italy            |
 
