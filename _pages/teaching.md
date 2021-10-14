@@ -9,21 +9,26 @@ Since 2015 I have been responsible for the exercise sessions of several courses 
 
 ## Technische Universität Berlin
 
+### Winter Semester 2021-22:
+
+* **Mathematik für PhysikerInnen III (1st year BSc):**
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions (in German)
+  * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=26618)
+
 ### Summer Semester 2021:
 
 * **Mathematik für PhysikerInnen II (1st year BSc):**
-  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions (in German)
   * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=24244)
-  * Language of instruction: German
 
 ### Winter Semester 2020-21:
 
 * **Mathematik für PhysikerInnen I (1st year BSc):**
-  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions, together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions (in German), together with [Felix Schröder](http://page.math.tu-berlin.de/~fschroed/)
   * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
   * [Course Info](https://isis.tu-berlin.de/course/view.php?id=22229)
-  * Language of instruction: German
 
 
 
