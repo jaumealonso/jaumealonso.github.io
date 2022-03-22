@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
-
+| Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
 
 
 
@@ -27,7 +27,6 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
-| Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
 | Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [video](https://youtu.be/_f1hFOqhACc)) | University of Antwerp, Antwerp, Belgium |
 | May 2020 | [*Poisson Seminar*](https://wis.kuleuven.be/meetkunde) (online) | KU Leuven University, Leuven, Belgium   |
 | May 2020 | [*Discretization in Geometry and Dynamics Seminar*](https://www.discretization.de/events/6/) (online) | TU Berlin, Berlin, Germany              |
