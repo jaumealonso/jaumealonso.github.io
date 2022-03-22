@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
-| Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
+
 
 
 
@@ -27,6 +27,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                   |
 | -------- | ------------------------------------------------------------ | --------------------------------------- |
+| Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)* | University of Antwerp, Antwerp, Belgium |
 | Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [video](https://youtu.be/_f1hFOqhACc)) | University of Antwerp, Antwerp, Belgium |
 | May 2020 | [*Poisson Seminar*](https://wis.kuleuven.be/meetkunde) (online) | KU Leuven University, Leuven, Belgium   |
 | May 2020 | [*Discretization in Geometry and Dynamics Seminar*](https://www.discretization.de/events/6/) (online) | TU Berlin, Berlin, Germany              |
@@ -83,4 +84,3 @@ title: "Outreach"
 | Jun 2016      | *[Conference on Integrable Systems](https://www.uantwerpen.be/en/conferences/integrable-systems-2016/)* | CSF Ascona, Ascona, Switzerland                          |
 | Mar 2016      | *[Mini-Workshop on Symplectic Geometry](https://www.staff.science.uu.nl/~zilte001/symplectic_2016_03_11/index.php)* | Utrecht University, Utrecht, The Netherlands             |
 | Oct 2015      | *[Mini-Workshop on Symplectic Geometry](http://www.math.vu.nl/en/news-agenda/agenda/2015/event0710.aspx)* | Vrije Universiteit Amsterdam, Amsterdam, The Netherlands |
-
