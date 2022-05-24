@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlads     |
+| Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlands     |
 
 
 
