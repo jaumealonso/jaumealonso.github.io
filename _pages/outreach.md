@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlands     |
+| Jul 2022 | *[International Conference on Scientific Computation and Differential Equations (SciCADE 2022)](https://scicade2021.hi.is/)* | University of Iceland, Reykjavík, Iceland     |
 
 
 
@@ -27,6 +27,7 @@ title: "Outreach"
 
 | Date     | Event                                                                                                                                                                                                                | Place                                   |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlands     |
 | Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)*                                                                                 | University of Antwerp, Antwerp, Belgium |
 | Jun 2021 | [*Workshop on Integrability and Dynamics*](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop-integrabilitydynamics/) (online, [video](https://youtu.be/_f1hFOqhACc)) | University of Antwerp, Antwerp, Belgium |
 | May 2020 | [*Poisson Seminar*](https://wis.kuleuven.be/meetkunde) (online)                                                                                                                                                      | KU Leuven University, Leuven, Belgium   |
