@@ -13,7 +13,6 @@ author_profile: true
 
 
 
-*No unpublished preprints at this moment.*
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
@@ -66,4 +65,3 @@ author_profile: true
 {% for post in site.theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
