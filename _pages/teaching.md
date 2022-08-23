@@ -3,11 +3,18 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Since 2015 I have been responsible for the exercise sessions of several courses for BSc and MSc students of Mathematics and Physics.
+From October 2022 onwards I will lecture at the MSc of Mathematics of the TU Berlin. Between 2015 and 2022 I have been responsible for the exercise sessions of several courses for BSc and MSc students of Mathematics and Physics.
 
 
 
 ## Technische Universität Berlin
+
+### Winter Semester 2022-23:
+
+* **Mathematical Physics I (1st year MSc):**
+  * Lectures (preparation and teaching)
+  * Assistant: [Elias Wirth](https://www.wirthelias.com/)
+  * Course Info (not yet available)
 
 ### Summer Semester 2022:
 
