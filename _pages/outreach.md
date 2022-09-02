@@ -9,6 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
+| Oct 2022 | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
 | Oct 2022 | *[DNA Seminar ](https://wiki.math.ntnu.no/seminar/dna)*  (online)| Norwegian University of Science and Technology, Trondheim, Norway     |
 
 
