@@ -9,8 +9,9 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
+| Oct 2022 | *[UIUC Symplectic and Poisson Geometry Seminar](https://sites.google.com/view/jpalmer/spg-seminar)*  (online)| University of Illinois Urbana-Champaign, Champaign, US     |
 | Oct 2022 | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
-| Oct 2022 | *[DNA Seminar ](https://wiki.math.ntnu.no/seminar/dna)*  (online)| Norwegian University of Science and Technology, Trondheim, Norway     |
+| Oct 2022 | *[DNA Seminar](https://wiki.math.ntnu.no/seminar/dna)*  (online)| Norwegian University of Science and Technology, Trondheim, Norway     |
 
 
 
