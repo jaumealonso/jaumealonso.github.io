@@ -14,7 +14,7 @@ From October 2022 onwards I will be lecturing at the MSc of Mathematics of the T
 * **Mathematical Physics I (1st year MSc):**
   * Lectures (preparation and teaching)
   * Assistant: [Elias Wirth](https://www.wirthelias.com/)
-  * Course Info (not yet available)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=31720)
 
 ### Summer Semester 2022:
 
