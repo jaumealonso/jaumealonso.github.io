@@ -9,8 +9,8 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Oct 2022 | *[UIUC Symplectic and Poisson Geometry Seminar](https://sites.google.com/view/jpalmer/spg-seminar)*  (online)| University of Illinois Urbana-Champaign, Champaign, US     |
-| Oct 2022 | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
+
+
 
 
 
@@ -29,6 +29,7 @@ title: "Outreach"
 
 | Date     | Event                                                                                                                                                                                                                | Place                                   |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Oct 2022 | *[UIUC Symplectic and Poisson Geometry Seminar](https://sites.google.com/view/jpalmer/spg-seminar)*  (online)| University of Illinois Urbana-Champaign, Champaign, US     |
 | Oct 2022 | *[DNA Seminar](https://wiki.math.ntnu.no/seminar/dna)*  (online)| Norwegian University of Science and Technology, Trondheim, Norway     |
 | Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlands     |
 | Oct 2021 | *[Analysis & Geometry Seminar](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/seminars/analysis---geometry-/)*                                                                                 | University of Antwerp, Antwerp, Belgium |
@@ -62,6 +63,7 @@ title: "Outreach"
 
 | Date          | Event                                                        | Place                                                    |
 | ------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| Oct 2022      | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
 | February 2020 | [*XIV Workshop on Symplectic Geometry, Contact Geometry and Interaction*s](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop/) | University of Antwerp, Antwerp, Belgium                  |
 | July 2019     | *[Summer School: Data Science for Dynamical Systems](http://www.lorentzcenter.nl/lc/web/2019/1112/info.php3?wsid=1112&venue=Oort)* | Lorentz Center, Leiden, The Netherlands                  |
 | May 2019      | *[Finite Dimensional Integrable Systems in Geometry and Mathematical Physics (FDIS)](http://math.sjtu.edu.cn/FDIS2019/)* | Shanghai Jiao Tong University, Shanghai, China           |
