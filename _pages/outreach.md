@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-|  -   |   -   |   -   |
+|      |       |       |
 
 
 
