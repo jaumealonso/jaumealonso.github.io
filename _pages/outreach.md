@@ -9,6 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
+|  -   |   -   |   -   |
 
 
 
@@ -51,11 +52,11 @@ title: "Outreach"
 | ----------- | ------------------------------------------------------------ | --------------------------------------- |
 | Apr 2019    | [*Symplectic Dynamics*](http://www.lorentzcenter.nl/lc/web/2019/1093/info.php3?wsid=1093&venue=Oort) | Lorentz Center, Leiden, The Netherlands |
 | Jan 2019    | *[Faculty of Science - Research Day 3](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/)* | University of Antwerp, Antwerp, Belgium |
-| June 2018   | *[16th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD 2018)](http://www.crm.cat/en/Activities/Curs_2017-2018/Pages/JISD-2018.aspx)* | CRM, Barcelona, Spain                   |
+| Jun 2018   | *[16th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD 2018)](http://www.crm.cat/en/Activities/Curs_2017-2018/Pages/JISD-2018.aspx)* | CRM, Barcelona, Spain                   |
 | Apr 2018    | *[Geometric aspects of momentum maps and integrability](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-organisat/-geometric-aspects-o/)* | CSF, Ascona, Switzerland                |
-| 17 Jan 2018 | [*Faculty of Science - Research Day 2*](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/) | University of Antwerp, Antwerp, Belgium |
-| 3 Jul 2017  | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics (FDIS)*](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/Finite-Dimensional-Integrable-Systems-in-Geometry-and-Mathematical-Physics.aspx) | CRM, Barcelona, Spain                   |
-| 27 Jun 2017 | [*15th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD)*](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/15th-Workshop-on-Interactions-between-Dynamical-Systems-and-Partial-Differential-Equations.aspx) | CRM, Barcelona, Spain                   |
+| Jan 2018 | [*Faculty of Science - Research Day 2*](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/) | University of Antwerp, Antwerp, Belgium |
+| Jul 2017  | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics (FDIS)*](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/Finite-Dimensional-Integrable-Systems-in-Geometry-and-Mathematical-Physics.aspx) | CRM, Barcelona, Spain                   |
+| Jun 2017 | [*15th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD)*](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/15th-Workshop-on-Interactions-between-Dynamical-Systems-and-Partial-Differential-Equations.aspx) | CRM, Barcelona, Spain                   |
 
 
 
@@ -64,15 +65,15 @@ title: "Outreach"
 | Date          | Event                                                        | Place                                                    |
 | ------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
 | Oct 2022      | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
-| February 2020 | [*XIV Workshop on Symplectic Geometry, Contact Geometry and Interaction*s](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop/) | University of Antwerp, Antwerp, Belgium                  |
-| July 2019     | *[Summer School: Data Science for Dynamical Systems](http://www.lorentzcenter.nl/lc/web/2019/1112/info.php3?wsid=1112&venue=Oort)* | Lorentz Center, Leiden, The Netherlands                  |
+| Feb 2020 | [*XIV Workshop on Symplectic Geometry, Contact Geometry and Interaction*s](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop/) | University of Antwerp, Antwerp, Belgium                  |
+| Jul 2019     | *[Summer School: Data Science for Dynamical Systems](http://www.lorentzcenter.nl/lc/web/2019/1112/info.php3?wsid=1112&venue=Oort)* | Lorentz Center, Leiden, The Netherlands                  |
 | May 2019      | *[Finite Dimensional Integrable Systems in Geometry and Mathematical Physics (FDIS)](http://math.sjtu.edu.cn/FDIS2019/)* | Shanghai Jiao Tong University, Shanghai, China           |
 | Apr 2019      | *[Symplectic Dynamics](http://www.lorentzcenter.nl/lc/web/2019/1093/info.php3?wsid=1093&venue=Oort)* | Lorentz Center, Leiden, The Netherlands                  |
 | Mar 2019      | *[Mini-Workshop on Symplectic Geometry](http://www.staff.science.uu.nl/~zilte001/symplectic_2019_03_15/index.php)* | Utrecht University, Utrecht, The Netherlands             |
 | Jan 2019      | *[Faculty of Science - Research Day 3](https://www.uantwerpen.be/en/faculties/faculty-of-science/research/research-day/)* | University of Antwerp, Antwerp, Belgium                  |
 | Sep 2018      | *[Mini-workshop on Integrable Hamiltonian Systems](https://sites.google.com/a/rug.nl/mini-workshop-integrable-hamiltonian-systems/)* | University of Groningen, Groningen, the Netherlands      |
-| July 2018     | *[Symplectic Dynamics](https://www.mathi.uni-heidelberg.de/~palbers/ag-sympgeo/styled-10/)* | Heidelberg University, Heidelberg, Germany               |
-| June 2018     | *[16th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD 2018)](http://www.crm.cat/en/Activities/Curs_2017-2018/Pages/JISD-2018.aspx)* | CRM, Barcelona, Spain                                    |
+| Jul 2018     | *[Symplectic Dynamics](https://www.mathi.uni-heidelberg.de/~palbers/ag-sympgeo/styled-10/)* | Heidelberg University, Heidelberg, Germany               |
+| Jun 2018     | *[16th School on Interactions between Dynamical Systems and Partial Differential Equations (JISD 2018)](http://www.crm.cat/en/Activities/Curs_2017-2018/Pages/JISD-2018.aspx)* | CRM, Barcelona, Spain                                    |
 | Apr-May 2018  | *[Topological data analysis meets symplectic topology](http://www.math.tau.ac.il/~ostrover/Workshop/TDAMST/TDAMST.html)* | Tel Aviv University, Tel Aviv, Israel                    |
 | Apr 2018      | *[Geometric aspects of momentum maps and integrability](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-organisat/-geometric-aspects-o/)* | CSF, Ascona, Switzerland                                 |
 | Mar 2018      | *[Mini-Workshop on Symplectic Geometry](https://www.staff.science.uu.nl/~zilte001/symplectic_2018_03_16/index.php)* | Utrecht University, Utrecht, The Netherlands             |
