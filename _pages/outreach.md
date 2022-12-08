@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-|      |       |       |
+| Jun 2023 | *[Finite dimensional integrability in mathematical physics](https://swissmaprs.ch/events/finite-dimensional-integrability-in-mathematical-physics/)* | SwissMAP Research Station, Les Diablerets, Switzerland     |
 
 
 
