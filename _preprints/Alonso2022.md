@@ -1,7 +1,7 @@
 ---
 title: "A three-dimensional generalization of QRT maps"
 collection: preprints
-permalink: /preprints/Alonso2022-1
+permalink: /preprints/Alonso2022
 date: 2022-07-13
 venue: 'arXiv'
 arxivurl: 'https://arxiv.org/abs/2207.06051'
