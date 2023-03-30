@@ -30,3 +30,9 @@ This semester I am teaching the course *Mathematical Physics I*, on dynamical sy
 * Bifurcation of ordinary differential equations
 
 Besides that, I am also generally interested in data-driven modelling, time-series analysis, machine learning, complex systems and in models with differential equations in physics, chemistry and social sciences.
+
+---
+
+### Pronunciation:
+
+In case you might be interested, my [name](https://en.wiktionary.org/wiki/Jaume) is pronounced /ˈʒaw.mə/ and sounds like [this](https://www.howtopronounce.com/catalan/jaume).

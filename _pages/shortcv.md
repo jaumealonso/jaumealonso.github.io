@@ -45,8 +45,8 @@ Other languages:
 |   Language    | Listening | Reading | Speaking | Writing |
 | :-----------: | :-------: | :-----: | :------: | :-----: |
 | ***English*** |    C2     |   C2    |    C2    |   C2    |
-|  ***Dutch***  |    C2     |   C2    |    C2    |   C1    |
-| ***German***  |    C1     |   C1    |    C1    |   C1    |
+|  ***Dutch***  |    C2     |   C2    |    C2    |   C2    |
+| ***German***  |    C2     |   C2    |    C2    |   C2    |
 | ***Swedish*** |    B2     |   B2    |    B1    |   B1    |
 
 
@@ -86,9 +86,3 @@ Other certificates:
 * *Bierkenner* – Beer connoisseur (CVO Provincie Antwerpen) – 2019
 
 <br/>
-
----
-
-### Pronunciation: 
-
-In case you might be interested, my [name](https://en.wiktionary.org/wiki/Jaume) is pronounced /ˈʒaw.mə/ and sounds like [this](https://www.howtopronounce.com/catalan/jaume).
