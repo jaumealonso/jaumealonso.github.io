@@ -18,7 +18,7 @@ I am a postdoctoral researcher in Mathematics at the [Institute of Mathematics](
 
 Before that, I was at the [Department of Mathematics](https://www.uantwerpen.be/en/departments/mathematics/) of the [University of Antwerp](https://www.uantwerpen.be/en/) in Belgium, where I obtained my PhD and I still collaborate as a volunteer. I worked with [Prof. Sonja Hohloch](https://www.uantwerpen.be/en/staff/sonja-hohloch/) and [Prof. Holger Dullin](https://www.maths.usyd.edu.au/u/dullin/) from the University of Sydney in the symplectic classification of **semitoric systems**, a class of integrable systems with two degrees of freedom. In particular, we found ways to compute the **symplectic invariants** using the theory of elliptic integrals and symplectic geometry.
 
-This semester I am teaching the course *Mathematical Physics I*, on dynamical systems and classical mechanics. Before that, I have been teaching the exercise sessions of different BSc and MSc courses for mathematics and physics students both in Berlin and in Antwerp.
+This year I teach the lectures of the course *Mathematical Physics I* (MSc Math) and the exercise sessions of the course *Mathematik für PhysikerInnen II* (BSc Phys). Before that, I have been teaching the exercise sessions of different BSc and MSc courses for mathematics and physics students both in Berlin and in Antwerp.
 
 ### My main research interests:
 
