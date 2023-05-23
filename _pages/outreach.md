@@ -9,7 +9,6 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| May 2023 | *[SFB Colloquium](https://www.discretization.de/events/14/)* | Technische Universität Berlin, Berlin, Germany     |
 | Jun 2023 | *[Symmetries and Integrability of Difference Equations 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?confId=67)* | University of Warsaw, Warsaw, Poland     |
 | Jun 2023 | *[Finite dimensional integrability in mathematical physics](https://swissmaprs.ch/events/finite-dimensional-integrability-in-mathematical-physics/)* | SwissMAP Research Station, Les Diablerets, Switzerland     |
 
@@ -32,6 +31,7 @@ title: "Outreach"
 
 | Date     | Event                                                                                                                                                                                                                | Place                                   |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| May 2023 | *[SFB Colloquium](https://www.discretization.de/events/14/)* | Technische Universität Berlin, Berlin, Germany     |
 | Oct 2022 | *[UIUC Symplectic and Poisson Geometry Seminar](https://sites.google.com/view/jpalmer/spg-seminar)*  (online)| University of Illinois Urbana-Champaign, Champaign, US     |
 | Oct 2022 | *[DNA Seminar](https://wiki.math.ntnu.no/seminar/dna)*  (online)| Norwegian University of Science and Technology, Trondheim, Norway     |
 | Jul 2022 | *[Floris Takens Seminar](https://www.rug.nl/research/bernoulli/groups/dsgmp/calendar/floris-takens-seminar/?lang=en)* | University of Groningen, Groningen, the Netherlands     |
