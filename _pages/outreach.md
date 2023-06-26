@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Jun 2023 | *[Symmetries and Integrability of Difference Equations 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?confId=67)* | University of Warsaw, Warsaw, Poland     |
+
 
 
 
@@ -20,7 +20,8 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                          |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| Jun 2023 | *[Finite dimensional integrability in mathematical physics](https://swissmaprs.ch/events/finite-dimensional-integrability-in-mathematical-physics/)* | SwissMAP Research Station, Les Diablerets, Switzerland     |
+| Jun 2023 | *[Symmetries and Integrability of Difference Equations 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?confId=67)* | University of Warsaw, Warsaw, Poland     |
+| Jun 2023 | *[Finite dimensional integrability in mathematical physics](https://swissmaprs.ch/events/finite-dimensional-integrability-in-mathematical-physics/)* *[(video)](https://www.youtube.com/watch?v=b7tqjVaF6S0)*| SwissMAP Research Station, Les Diablerets, Switzerland     |
 | Jul 2022 | *[International Conference on Scientific Computation and Differential Equations (SciCADE 2022)](https://scicade2021.hi.is/)* | University of Iceland, Reykjavík, Iceland     |
 | Sep 2021 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/74/) | Tagungszentrum Landshut, Landshut, Germany     |
 | May 2019 | [*Finite Dimensional Integrable Systems in Geometry and Mathematical Physics*](https://math.sjtu.edu.cn/FDIS2019/) | Shanghai Jiao Tong University, Shanghai, China |
