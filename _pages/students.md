@@ -2,7 +2,8 @@
 permalink: /students/
 title: "Students"
 ---
-
+Theses I am currently (co-)supervising:
+- Shishir Sanjeev - ***Hirota-Kimura bases and integrability in the KHK discretisation of integrable systems*** (co-supervised with [Y. Suris](http://page.math.tu-berlin.de/~suris/)), MSc Thesis, Technische Universität Berlin, 2023.
 
 
 Theses that I have (co-)supervised:
