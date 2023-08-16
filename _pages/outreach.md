@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-|  |  |      |
+| Sep 2023 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/98/) | Technical University of Munich, Raitenhaslach, Germany |
 
 
 
