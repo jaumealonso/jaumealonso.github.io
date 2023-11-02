@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Sep 2023 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/98/) | Technical University of Munich, Raitenhaslach, Germany |
+| Nov 2023 | Research stay (13-17 Nov) at the Università degli Studi di Milano | University of Milano, Milano, Italy |
 
 
 
@@ -21,6 +21,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                          |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| Sep 2023 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/98/) | Technical University of Munich, Raitenhaslach, Germany |
 | Jun 2023 | *[Symmetries and Integrability of Difference Equations 14.2](http://indico.fuw.edu.pl/conferenceDisplay.py?confId=67)* | University of Warsaw, Warsaw, Poland     |
 | Jun 2023 | *[Finite dimensional integrability in mathematical physics](https://swissmaprs.ch/events/finite-dimensional-integrability-in-mathematical-physics/)* *[(videos)](https://swissmaprs.ch/videos/finite-dimensional-integrability-in-mathematical-physics/)*| SwissMAP Research Station, Les Diablerets, Switzerland     |
 | Jul 2022 | *[International Conference on Scientific Computation and Differential Equations (SciCADE 2022)](https://scicade2021.hi.is/)* | University of Iceland, Reykjavík, Iceland     |
