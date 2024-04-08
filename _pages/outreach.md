@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Apr-May 2024 | Research stay (8 Apr - 8 May) at the University of Tokyo and talks in the *Discrete mathematical modelling seminar* ([Talk 1](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-062_e.html)) | University of Tokyo, Tokyo, Japan |
+| Apr-May 2024 | Research stay (8 Apr - 8 May) and talks in the *Discrete mathematical modelling seminar* ([Talk 1](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-062_e.html)) | University of Tokyo, Tokyo, Japan |
 | May 2024 | [*Discrete Differential Geometry and Dimers 2024*](https://www.discretization.de/events/103/) | Humboldt University, Berlin, Germany |
 
 
