@@ -63,5 +63,5 @@ author_profile: true
 
 
 {% for post in site.theses reversed %}
-- {% include archive-single.html %}
+ {% include archive-single.html %}
 {% endfor %}
