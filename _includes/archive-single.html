@@ -12,6 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
+<ul>
+  <li>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -217,3 +220,5 @@
 
   </article>
 </div>
+
+</ul>
