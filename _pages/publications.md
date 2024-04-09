@@ -15,7 +15,7 @@ author_profile: true
 
 
 {% for post in site.preprints reversed %}
-  {% include archive-single.html %}
+  * {% include archive-single.html %}
 {% endfor %}
 
 <br/><br/>
@@ -29,7 +29,7 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-   {% include archive-single.html %}
+   * {% include archive-single.html %}
 {% endfor %}
 
 
@@ -47,7 +47,7 @@ author_profile: true
 *(Non-peer-reviewed)*
 
 {% for post in site.proceedings reversed %}
-  {% include archive-single.html %}
+  * {% include archive-single.html %}
 {% endfor %}
 
 
@@ -63,5 +63,5 @@ author_profile: true
 
 
 {% for post in site.theses reversed %}
-  {% include archive-single.html %}
+  * {% include archive-single.html %}
 {% endfor %}
