@@ -12,7 +12,7 @@ Academic experience
 
 * **Postdoctoral researcher & Teaching Assistant** (Oct 2020 - *Present*)
   * Technische Universität Berlin, Germany.
-  * *Research stay at the University of Tokyo (Apr-May 2024)* 
+  * Research stay at the University of Tokyo (Apr-May 2024)
   * Research stay at Università degli Studi di Milano (Nov 2023)
 
 * **Postdoctoral researcher & Teaching Assistant** (Oct 2019 - Sept 2020)
