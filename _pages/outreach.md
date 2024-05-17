@@ -10,6 +10,8 @@ title: "Outreach"
 | Date | Event | Place |
 |------|-------|-------|
 | May 2024 | [*Discrete Differential Geometry and Dimers 2024*](https://www.discretization.de/events/103/) | Humboldt University, Berlin, Germany |
+| Sep 2024 | [*Discrete Geometric Structures 2024*](https://www.geometrie.tuwien.ac.at/ig/events/dgs2024/) | Technische Universität Wien, Vienna, Austria |
+
 
 
 
