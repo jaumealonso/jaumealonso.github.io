@@ -9,6 +9,13 @@ Since 2015 I have been responsible for lectures and exercise sessions of several
 
 ## Technische Universität Berlin
 
+### Summer Semester 2024:
+
+* **Mathematik für PhysikerInnen IV (2nd year BSc):**
+  * Coordination of the team of tutors, creation of content and teaching of the exercise sessions (in German)
+  * Lectures: [Prof. Yuri Suris](http://page.math.tu-berlin.de/~suris/)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=37639)
+
 ### Winter Semester 2023-24:
 
 * **Mathematical Physics III (2nd year MSc):**
