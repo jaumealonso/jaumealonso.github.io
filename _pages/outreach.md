@@ -9,7 +9,6 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| May 2024 | [*Discrete Differential Geometry and Dimers 2024*](https://www.discretization.de/events/103/) | Humboldt University, Berlin, Germany |
 | Sep 2024 | [*Discrete Geometric Structures 2024*](https://www.geometrie.tuwien.ac.at/ig/events/dgs2024/) | Technische Universität Wien, Vienna, Austria |
 
 
@@ -35,8 +34,8 @@ title: "Outreach"
 
 ### Past seminar / workshop presentations:
 
-| Date     | Event                                                                                                                                                                                                                | Place                                   |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Date     | Event        | Place            |
+|----------|---------------------------------|-----------------------------|
 | Apr-May 2024 | Research stay (8 Apr - 8 May) and talks in the [*Discrete mathematical modelling seminar*](https://www.ms.u-tokyo.ac.jp/seminar/discrete_e/index_e.html) ([Talk 1](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-062_e.html), [Talk 2](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-066_e.html), [Talk 3](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-067_e.html), [Talk 4](https://www.ms.u-tokyo.ac.jp/seminar/2024/sem24-072_e.html)) | University of Tokyo, Tokyo, Japan |
 | Nov 2023 | Research stay (13-17 Nov) at the Università degli Studi di Milano | University of Milano, Milano, Italy |
 | May 2023 | *[SFB Colloquium](https://www.discretization.de/events/14/)* | Technische Universität Berlin, Berlin, Germany     |
@@ -74,6 +73,7 @@ title: "Outreach"
 
 | Date          | Event                                                        | Place                                                    |
 | ------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| May 2024 | [*Discrete Differential Geometry and Dimers 2024*](https://www.discretization.de/events/103/) | Humboldt University, Berlin, Germany |
 | Oct 2022      | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
 | Feb 2020 | [*XIV Workshop on Symplectic Geometry, Contact Geometry and Interaction*s](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop/) | University of Antwerp, Antwerp, Belgium                  |
 | Jul 2019     | *[Summer School: Data Science for Dynamical Systems](http://www.lorentzcenter.nl/lc/web/2019/1112/info.php3?wsid=1112&venue=Oort)* | Lorentz Center, Leiden, The Netherlands                  |
