@@ -3,7 +3,7 @@ permalink: /students/
 title: "Students"
 ---
 Theses I am currently (co-)supervising:
-- Noah Gießing - ***Hirota-Kimura bases and integrability in the KHK discretisation of integrable systems*** (co-supervised with [Y. Suris](http://page.math.tu-berlin.de/~suris/)), MSc Thesis, Technische Universität Berlin, 2023.
+- Noah Gießing - ***Hirota-Kimura bases and integrability in the KHK discretisation of integrable systems*** (co-supervised with [Y. Suris](http://page.math.tu-berlin.de/~suris/)), MSc Thesis, Technische Universität Berlin, 2024.
 
 
 Theses that I have (co-)supervised:
