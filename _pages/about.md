@@ -35,4 +35,6 @@ Besides that, I am also generally interested in data-driven modelling, time-seri
 
 ### Pronunciation:
 
-In case you might be interested, my [name](https://en.wiktionary.org/wiki/Jaume) is pronounced /ˈʒaw.mə/ and sounds like [this](https://www.howtopronounce.com/catalan/jaume). I use the name アロンソ・ジャウマ in Japanese and 龙赵马 in Chinese.
+In case you might be interested, my [name](https://en.wiktionary.org/wiki/Jaume) is pronounced /ˈʒaw.mə/ and sounds like [this](https://www.howtopronounce.com/catalan/jaume).
+
+I use the name アロンソ・ジャウマ in Japanese and 龙赵马 in Chinese.
