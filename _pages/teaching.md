@@ -9,6 +9,16 @@ Since 2015 I have been responsible for lectures and exercise sessions of several
 
 ## Technische Universität Berlin
 
+### Winter Semester 2024-25:
+
+* **Mathematical Physics III (2nd year MSc):**
+  * Lectures (preparation and teaching)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=39890)
+
+* **Mathematical Physics I (1st year MSc):**
+  * Substitution (some exercise sessions)
+  * [Course Info](https://isis.tu-berlin.de/course/view.php?id=39556)
+
 ### Summer Semester 2024:
 
 * **Mathematik für PhysikerInnen IV (2nd year BSc):**
