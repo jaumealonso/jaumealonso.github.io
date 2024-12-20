@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-|  |  |  |
+| Feb 2025 | [*Workshop on Discrete Dynamical Systems*](https://www.crm.cat/workshop-on-discrete-dynamical-systems/) | Centre de Recerca Matemàtica, Bellaterra, Spain |
 
 
 
