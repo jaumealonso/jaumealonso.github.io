@@ -67,6 +67,7 @@ IT Skills:
 
 Professional development:
 
+* Certificate on China competence (CCST of TU Berlin) - 2025
 * Time Management (Talent Center UAntwerp) – 2020
 * Leadership & Teamwork (Antwerp Doctoral School) – 2018
 * Project Management (Antwerp Doctoral School) – 2018
