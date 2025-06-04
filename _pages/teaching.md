@@ -9,7 +9,7 @@ Since 2015 I have been responsible for lectures and exercise sessions of several
 
 ## Technische Universität Berlin
 
-### Summer Semester 2025:
+### Summer Semester 2024:
 
 * **Mathematik für PhysikerInnen II (1st year BSc):**
   * Coordination of the team of tutors, creation of content and teaching of the exercise sessions (in German)
