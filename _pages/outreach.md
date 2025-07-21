@@ -9,7 +9,7 @@ title: "Outreach"
 
 | Date | Event | Place |
 |------|-------|-------|
-| Jun 2025 | [*Summer school ASIDE 2025*](https://side15.unimi.it/aside15/lectures-and-topics/) | University of Milano, Milano, Italy |
+| | | |
 
 
 
@@ -22,6 +22,7 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                          |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| Jun 2025 | [*Summer school ASIDE 2025*](https://side15.unimi.it/aside15/lectures-and-topics/) (Lecture series) | University of Milano, Milano, Italy |
 | Feb 2025 | [*Workshop on Discrete Dynamical Systems*](https://www.crm.cat/workshop-on-discrete-dynamical-systems/) | Centre de Recerca Matemàtica, Bellaterra, Spain |
 | Sep 2024 | [*Discrete Geometric Structures 2024*](https://www.geometrie.tuwien.ac.at/ig/events/dgs2024/) | Technische Universität Wien, Vienna, Austria |
 | Sep 2023 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/98/) | Technical University of Munich, Raitenhaslach, Germany |
@@ -75,6 +76,7 @@ title: "Outreach"
 
 | Date          | Event                                                        | Place                                                    |
 | ------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| Jun 2025 | [*Symmetries and Integrability of Difference Equations SIDE 2025*](https://side15.unimi.it/) | Palazzo dei Congressi, Sirmione, Italy |
 | May 2024 | [*Discrete Differential Geometry and Dimers 2024*](https://www.discretization.de/events/103/) | Humboldt University, Berlin, Germany |
 | Oct 2022      | *[Discretization in Geometry and Dynamics 2022](https://www.discretization.de/events/75/)* | Intercity Hotel Magdeburg, Magdeburg, Germany     |
 | Feb 2020 | [*XIV Workshop on Symplectic Geometry, Contact Geometry and Interaction*s](https://www.uantwerpen.be/nl/personeel/sonja-hohloch/private-webpage/conference-workshop/workshop/) | University of Antwerp, Antwerp, Belgium                  |
