@@ -29,7 +29,7 @@ This year I am teaching the lectures of the course *Mathematical Physics III* (M
 * Geometric aspects of dynamical systems
 * Bifurcation of ordinary differential equations
 
-Besides that, I am also generally interested in data-driven modelling, time-series analysis, machine learning, complex systems and in models with differential equations in physics, chemistry and social sciences.
+Besides that, I am also generally interested in data-driven modelling, time-series analysis, machine learning, complex systems and in models with differential equations in physics and finance.
 
 ---
 
