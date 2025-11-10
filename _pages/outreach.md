@@ -22,7 +22,10 @@ title: "Outreach"
 
 | Date     | Event                                                        | Place                                          |
 | -------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| Jun 2025 | [*Summer school ASIDE 2025*](https://side15.unimi.it/aside15/lectures-and-topics/) (Lecture series) | University of Milano, Milano, Italy |
+| Jun 2025 | [*Summer school ASIDE 2025*](https://side15.unimi.it/aside15/lectures-and-topics/) (Lecture series)
+*  Lecture 1
+*  Lecture 2
+*  Lecture 3 | University of Milano, Milano, Italy |
 | Feb 2025 | [*Workshop on Discrete Dynamical Systems*](https://www.crm.cat/workshop-on-discrete-dynamical-systems/) | Centre de Recerca Matemàtica, Bellaterra, Spain |
 | Sep 2024 | [*Discrete Geometric Structures 2024*](https://www.geometrie.tuwien.ac.at/ig/events/dgs2024/) | Technische Universität Wien, Vienna, Austria |
 | Sep 2023 | [*DGD Days on “Discretization in Geometry and Dynamics"*](https://www.discretization.de/events/98/) | Technical University of Munich, Raitenhaslach, Germany |
